@@ -1,5 +1,4 @@
 [![Practice ex with CI  | © 2022 by XGY](https://github.com/kakabear12/ex02-rn/actions/workflows/ex-ci.yml/badge.svg)](https://github.com/kakabear12/ex02-rn/actions/workflows/ex-ci.yml)
-
 # Welcome to Ex Repository
 ### You will find in this repo the following stuff:
 * The Java source code used to demonstate the Unit Test Level Technique

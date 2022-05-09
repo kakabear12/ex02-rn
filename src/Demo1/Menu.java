@@ -19,6 +19,7 @@ public class Menu extends ArrayList{
         }
         System.out.println("Choose option: ");
         System.out.println("ss");
+        s
         return Integer.parseInt(sc.nextLine());
     }
 }
